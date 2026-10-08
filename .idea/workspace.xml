@@ -1,37 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="be48a41d-2a2c-4402-9b1c-2f98306b09bb" name="Changes" comment="" />
+    <list default="true" id="be48a41d-2a2c-4402-9b1c-2f98306b09bb" name="Changes" comment="first construct">
+      <change afterPath="$PROJECT_DIR$/car.c45-names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car.names" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project2.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Semimona"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Semimona/Project2.git",
+    "accountId": "968eac73-8b97-42a1-b93e-88024172c1e4"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0575117281640547" />
+      <entry key="MS500" value="1.5648736072850618" />
+      <entry key="S2" value="1.8669375635146865" />
+      <entry key="S5" value="1.9444851396366956" />
+      <entry key="S10" value="1.9719750091233608" />
+      <entry key="S30" value="2.327615174038482" />
+      <entry key="S60" value="4.747543755782766" />
+      <entry key="M2" value="10.94207837908839" />
+      <entry key="M5" value="24.125699550280917" />
+      <entry key="M10" value="36.71742989251235" />
+      <entry key="M15" value="44.176197183651986" />
+      <entry key="M30" value="54.92316989567459" />
+      <entry key="H1" value="62.121849443754456" />
+      <entry key="H2" value="66.32399045855304" />
+      <entry key="H4" value="68.59898388523658" />
+      <entry key="D1" value="70.59073766994187" />
+      <entry key="W1" value="70.94130666865343" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.087766657519434E-93" />
+      <entry key="S2" value="8.083346295214548E-24" />
+      <entry key="S5" value="6.717061808736431E-10" />
+      <entry key="S10" value="3.375364237819981E-5" />
+      <entry key="S30" value="0.05047202543667879" />
+      <entry key="S60" value="0.34827921870883444" />
+      <entry key="M2" value="1.2093971136891881" />
+      <entry key="M5" value="3.4977320873157502" />
+      <entry key="M10" value="5.440975574965109" />
+      <entry key="M15" value="6.386039485453773" />
+      <entry key="M30" value="7.550713573094821" />
+      <entry key="H1" value="8.234895044236113" />
+      <entry key="H2" value="8.606635040221784" />
+      <entry key="H4" value="8.80052114008611" />
+      <entry key="D1" value="8.966356916886774" />
+      <entry key="W1" value="8.99518402314346" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0062983378212969" />
+      <entry key="MS500" value="1.5474396973426907" />
+      <entry key="S2" value="1.8615151126647316" />
+      <entry key="S5" value="1.9422067773234974" />
+      <entry key="S10" value="1.9708389101685395" />
+      <entry key="S30" value="2.3699243584524314" />
+      <entry key="S60" value="5.066932155282635" />
+      <entry key="M2" value="12.106855131512363" />
+      <entry key="M5" value="27.581034092650146" />
+      <entry key="M10" value="42.128110103280505" />
+      <entry key="M15" value="50.53922301484683" />
+      <entry key="M30" value="62.46068028959211" />
+      <entry key="H1" value="70.34965256734522" />
+      <entry key="H2" value="74.92694735515181" />
+      <entry key="H4" value="77.39763161210843" />
+      <entry key="D1" value="79.55677746688546" />
+      <entry key="W1" value="79.93644526779953" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3KQQZEO61iqRNoRlbgdyiPGDETr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "dataexploration",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "F:/UA/DATA 555/Project2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "DSTables",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\UA\DATA 555\Project2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,11 +158,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791487365548</updated>
-      <workItem from="1791487366556" duration="1000" />
+      <workItem from="1791487366556" duration="1613000" />
     </task>
+    <task id="LOCAL-00001" summary="first construct">
+      <option name="closed" value="true" />
+      <created>1791487522730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791487522730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first construct" />
+    <option name="LAST_COMMIT_MESSAGE" value="first construct" />
   </component>
 </project>
