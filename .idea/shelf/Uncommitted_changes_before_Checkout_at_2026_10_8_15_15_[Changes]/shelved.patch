@@ -1,0 +1,194 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"be48a41d-2a2c-4402-9b1c-2f98306b09bb\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 6,\r\n  \"fromUser\": false\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"3KQQZEO61iqRNoRlbgdyiPGDETr\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"python.packages.toolwindow.project.migrated.to.right.top.v2\": \"true\",\r\n    \"to.speed.mode.migration.done\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.10968.92\" />\r\n        <option value=\"bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"be48a41d-2a2c-4402-9b1c-2f98306b09bb\" name=\"Changes\" comment=\"\" />\r\n      <created>1791487365548</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1791487365548</updated>\r\n      <workItem from=\"1791487366556\" duration=\"1000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ba7eb04a342f2c4523a5a5794643a2430f1d702e)
++++ b/.idea/workspace.xml	(date 1791494097431)
+@@ -1,37 +1,145 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="ALL" />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="be48a41d-2a2c-4402-9b1c-2f98306b09bb" name="Changes" comment="" />
++    <list default="true" id="be48a41d-2a2c-4402-9b1c-2f98306b09bb" name="Changes" comment="data inspeciton">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Project2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project2.ipynb" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Jupyter Notebook" />
++      </list>
++    </option>
++  </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN",
++    "assignee": "Semimona"
++  }
++}]]></component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/Semimona/Project2.git",
++    "accountId": "968eac73-8b97-42a1-b93e-88024172c1e4"
++  }
++}]]></component>
++  <component name="NextEditCompletionFeaturesState">
++    <decayedCancelled>
++      <entry key="MS100" value="1.0000000023413378" />
++      <entry key="MS500" value="1.0328395262188281" />
++      <entry key="S2" value="2.082444301794769" />
++      <entry key="S5" value="4.358408142239142" />
++      <entry key="S10" value="6.881379285247083" />
++      <entry key="S30" value="11.04109611789361" />
++      <entry key="S60" value="14.604646863986051" />
++      <entry key="M2" value="20.485454754488007" />
++      <entry key="M5" value="30.901017495961607" />
++      <entry key="M10" value="43.93518679812539" />
++      <entry key="M15" value="54.55644190627827" />
++      <entry key="M30" value="74.12192229583906" />
++      <entry key="H1" value="90.10326559657692" />
++      <entry key="H2" value="100.50245515401791" />
++      <entry key="H4" value="106.46118257282806" />
++      <entry key="D1" value="111.86730033669046" />
++      <entry key="W1" value="112.83709926689606" />
++    </decayedCancelled>
++    <decayedSelected>
++      <entry key="MS100" value="0.0" />
++      <entry key="MS500" value="4.592418958359496E-66" />
++      <entry key="S2" value="4.6292472290208286E-17" />
++      <entry key="S5" value="2.9255273078355785E-7" />
++      <entry key="S10" value="5.409460658182571E-4" />
++      <entry key="S30" value="0.0854899129173802" />
++      <entry key="S60" value="0.34879097949047666" />
++      <entry key="M2" value="0.7874121375469556" />
++      <entry key="M5" value="1.5915967809247973" />
++      <entry key="M10" value="3.058773063506667" />
++      <entry key="M15" value="4.357003561364272" />
++      <entry key="M30" value="6.693931939529373" />
++      <entry key="H1" value="8.515659642258324" />
++      <entry key="H2" value="9.661007941105181" />
++      <entry key="H4" value="10.304282236993355" />
++      <entry key="D1" value="10.880219855941268" />
++      <entry key="W1" value="10.982792306171538" />
++    </decayedSelected>
++    <decayedShown>
++      <entry key="MS100" value="0.014782151397852723" />
++      <entry key="MS500" value="0.44743031795913174" />
++      <entry key="S2" value="1.6765879388085836" />
++      <entry key="S5" value="3.976487675382738" />
++      <entry key="S10" value="6.566833878937219" />
++      <entry key="S30" value="10.952733721536008" />
++      <entry key="S60" value="14.837551016203852" />
++      <entry key="M2" value="21.19219634112391" />
++      <entry key="M5" value="32.444672487914026" />
++      <entry key="M10" value="46.96012618766166" />
++      <entry key="M15" value="58.88587024764119" />
++      <entry key="M30" value="80.79784147979582" />
++      <entry key="H1" value="98.60833794054068" />
++      <entry key="H2" value="110.15768172176273" />
++      <entry key="H4" value="116.76243839065725" />
++      <entry key="D1" value="122.74699564480358" />
++      <entry key="W1" value="123.8198161265819" />
++    </decayedShown>
+   </component>
+   <component name="ProjectColorInfo"><![CDATA[{
+   "associatedIndex": 6,
+   "fromUser": false
+ }]]></component>
+   <component name="ProjectId" id="3KQQZEO61iqRNoRlbgdyiPGDETr" />
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "ModuleVcsDetector.initialDetectionPerformed": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
+     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+     "codeWithMe.voiceChat.enabledByDefault": "false",
+     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "dataexploration",
+     "junie.onboarding.icon.badge.shown": "true",
++    "last_opened_file_path": "F:/UA/DATA 555/Project2",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.jshint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.jshint": "",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
+     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
++    "settings.editor.selected.configurable": "DSTables",
+     "to.speed.mode.migration.done": "true"
+   }
+ }]]></component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="F:\UA\DATA 555\Project2" />
++    </key>
++  </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -47,11 +155,33 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1791487365548</updated>
+-      <workItem from="1791487366556" duration="1000" />
++      <workItem from="1791487366556" duration="4873000" />
+     </task>
++    <task id="LOCAL-00001" summary="first construct">
++      <option name="closed" value="true" />
++      <created>1791487522730</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1791487522730</updated>
++    </task>
++    <task id="LOCAL-00002" summary="data inspeciton">
++      <option name="closed" value="true" />
++      <created>1791488992801</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1791488992801</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="first construct" />
++    <MESSAGE value="data inspeciton" />
++    <option name="LAST_COMMIT_MESSAGE" value="data inspeciton" />
++  </component>
+ </project>
+\ No newline at end of file
